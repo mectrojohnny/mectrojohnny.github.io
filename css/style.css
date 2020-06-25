@@ -1,0 +1,100 @@
+body{
+    background-color:#f7f9fc;
+}
+.remPadding
+{
+    padding: 0px;
+    margin:0px;
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+.covidtext{
+    color:#e25111 ;
+}
+
+.bigicon {
+    font-size: 20px;
+    color: #36A0FF;
+}
+.logo{
+    background-image: url("../images/logo.png") ;
+    background-repeat:no-repeat;
+    background-size:contain;
+    height:50px;width:100px;
+      }
+      .rimg{
+          max-width: 80%;
+      }
+.bs-example{
+    /* margin: 20px; */
+}
+.topline{
+    border-top: 6px solid  #e25111;
+}
+.info
+{
+    background-color: rgb(52, 58, 64);
+color:rgb(54, 160, 255);
+
+}
+.covid{
+    size: 10px;
+}
+.carousel-inner img
+{
+    max-height: 70vh;
+    margin: auto;
+}
+.compInfo {
+    font: large;
+}
+    .testim{
+background-color:#f7f9fc;
+color:rgb(54, 160, 255);
+    }
+    .paralax{
+        background-color:#030b16;
+        color:rgb(27, 3, 5);
+    }
+    .partners img{
+        max-height: 10vh;
+
+    }
+    .safetext{
+        color:black ;
+        /* font-weight: bolder; */
+        font-size:large ;
+    }
+    .servicewhite
+    {
+        color :white;
+        text-align: justify;
+    }
+    .brandblue{
+      color:rgb(20, 0, 109);
+
+    }
+    .brand2{
+        color:rgb(254, 166, 101);
+  
+      }
+      .brandblue{
+        color:rgb(20, 0, 109);
+  
+      }
+      .brand3{
+        color:rgb(70, 98, 4);
+  
+      }
+      .slash{
+          border-left: 6px solid rgb(226, 81, 17);
+          height: 2vh;
+
+      }
+    .contact{
+      font-size: medium;  
+      color:rgb(20, 0, 109);
+    }
