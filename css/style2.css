@@ -512,7 +512,7 @@ ul.widget_links li a:hover, ul.widget_links li a:focus, ul.widget_links li.activ
 
 /*Go to top button*/
 #back-top{
-  bottom:120px;
+  bottom:180px;
   position: fixed;
   right:25px;
   z-index:800;
